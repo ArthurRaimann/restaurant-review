@@ -1,0 +1,8 @@
+https://rollercoin.com/game
+http://ptc.cointiply.com/ads?intent=manage-ptc
+http://www.rollcalculator.xyz/
+https://www.youtube.com/watch?v=fEvM-OUbaKs
+https://adalite.io/
+https://fireship.io/lessons/
+
+in /backend -> nodemon server ausführen. Mongo DB Collection muss erreichbar sein!
